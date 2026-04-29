@@ -1,17 +1,9 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000d00,100:00ff00" /> 
 
-<table style="border: none; border-collapse: collapse;">
-  <tr>
-    <td style="border: none;" align="center">
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F740&width=435&lines=Hello%2C+I'm+Abrar+Imam+Satria;A+Mobile+and+web+developer)](https://git.io/typing-svg)
-
-  </td>
-    <td style="border: none;" align="center">
-      <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5aXBlbGt2dGJzdzI4MjFneTJ5N295cHkwemY1Y3dnOHZ4ajc5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/giphy.gif" width="300"/>
-    </td>
-  </tr>
-</table>
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F740&width=435&lines=Hello%2C+I'm+Abrar+Imam+Satria;A+Mobile+and+web+developer" align="center" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5aXBlbGt2dGJzdzI4MjFneTJ5N295cHkwemY1Y3dnOHZ4ajc5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/giphy.gif" width="250" align="center" />
+</p>
 
 <p align="justify">
 I'm Abrar Imam Satria, a fresh graduate in Information Technology from Universitas Muhammadiyah Yogyakarta. I have a strong interest in mobile and web development, with hands-on experience in building applications through academic projects, internships, and certifications. With a solid foundation in JavaScript, Kotlin, and database systems, I have developed applications such as an IT Audit mobile application and a financial recording app for SMEs. I focus on creating solutions that are not only functional but also user-friendly and efficient. As a fast learner and adaptable individual, I am comfortable working in dynamic environments and continuously improving my skills. I enjoy collaborating with teams, solving problems, and taking initiative to deliver meaningful results.
