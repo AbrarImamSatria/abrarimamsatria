@@ -2,7 +2,7 @@
 
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=13F740&width=435&lines=Hello%2C+I'm+Abrar+Imam+Satria;A+Mobile+and+web+developer" align="center" />
-  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5aXBlbGt2dGJzdzI4MjFneTJ5N295cHkwemY1Y3dnOHZ4ajc5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/giphy.gif" width="350" align="center" />
+  <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5aXBlbGt2dGJzdzI4MjFneTJ5N295cHkwemY1Y3dnOHZ4ajc5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/giphy.gif" width="250" align="center" />
 </p>
 
 <p align="justify">
@@ -32,5 +32,19 @@ a fresh graduate in Information Technology from Universitas Muhammadiyah Yogyaka
 -->
 
 ### Statistics
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abrarimamsatria&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=radical&hide_border=false&order=2" height="150" alt="languages graph" />
 
+  <img src="https://streak-stats.demolab.com?user=abrarimamsatria&locale=en&mode=daily&theme=neon&hide_border=false&border_radius=5&order=3" height="150" alt="streak graph" />
+  
+  <img src="https://github-profile-trophy.vercel.app?username=abrarimamsatria&theme=radical&column=-1&row=1&margin-w=8&margin-h=8&no-bg=false&no-frame=false&order=4" height="150" alt="trophy graph" />
+</div>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/abrarimamsatria/abrarimamsatria/output/pacman-contribution-graph-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/abrarimamsatria/abrarimamsatria/output/pacman-contribution-graph.svg">
+  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/abrarimamsatria/abrarimamsatria/output/pacman-contribution-graph.svg">
+</picture>
+
+###
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000d00,100:00ff00&section=footer" />
