@@ -1,7 +1,7 @@
 <img src="https://capsule-render.vercel.app/api?type=waving&height=100&color=0:000d00,100:00ff00" /> 
 
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&pause=1000&color=13F740&width=435&lines=Hello%2C+I'm+Abrar+Imam+Satria;A+Mobile+and+web+developer" align="center" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=VT323&size=40&pause=1000&color=13F740&width=600&height=80&lines=Hello%2C+I'm+Abrar+Imam+Satria;A+Mobile+and+web+developer" align="center" />
   <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExM3N5aXBlbGt2dGJzdzI4MjFneTJ5N295cHkwemY1Y3dnOHZ4ajc5eiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/NSzHiAwAcazs7dcDr9/giphy.gif" width="250" align="center" />
 </p>
 
